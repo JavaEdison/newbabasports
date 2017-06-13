@@ -5,7 +5,7 @@
     <artifactId>parents</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>xinbabasports-service--buyer</artifactId>
+  <artifactId>xinbabasports-service-buyer</artifactId>
   <packaging>war</packaging>
   <dependencies>
   	<dependency>
